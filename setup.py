@@ -6,8 +6,6 @@ from pip.req import parse_requirements
 import os
 import dummy
 
-directory = os.path.dirname(os.path.realpath(__file__))
-
 install_requirements = parse_requirements('requirements.txt',
                                           session=False)
 requirements = [str(ir.req) for ir in install_requirements]
