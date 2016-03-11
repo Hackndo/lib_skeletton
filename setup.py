@@ -3,7 +3,6 @@
  
 from setuptools import setup, find_packages
 from pip.req import parse_requirements
-import os
 import dummy
 
 install_requirements = parse_requirements('requirements.txt',
