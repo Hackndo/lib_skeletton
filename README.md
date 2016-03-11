@@ -1,2 +1,32 @@
-# tobcri
-tobcri is an IRC bot based on Sopel that supports SSL, multi channels, and provides different modules and commands
+# Dummy Project
+### Description
+Dummy is a dummy skeleton project for future Python library development.
+
+### Version
+1.0
+
+### Tech
+
+
+* [Dummy](https://github.com/Hackndo/lib_skeletton)
+
+### Requirements
+
+See `requirements.txt` file
+
+### Installation
+
+```python
+mkvirtualenv dummy -p /path/to/python
+python setup.py
+```
+
+### Test
+
+```
+python setup.py test
+```
+
+### Development
+
+Want to contribute? Great, feel free !
