@@ -24,7 +24,7 @@ python setup.py
 ### Test
 
 ```
-python setup.py test
+tox
 ```
 
 ### Development
